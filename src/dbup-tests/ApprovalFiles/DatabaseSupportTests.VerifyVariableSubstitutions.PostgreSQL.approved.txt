@@ -27,4 +27,4 @@ Info:         DB Operation: Add parameter to command: applied=<date>
 DB Operation: Execute non query command: insert into "schemaversions" (ScriptName, Applied) values (@scriptName, @applied)
 DB Operation: Dispose command
 Info:         Upgrade successful
-DB Operation: Dispose connectionXXXXXXXXXXXXXXXXXXXXXXX
+DB Operation: Dispose connection
